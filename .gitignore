@@ -1,0 +1,15 @@
+# System-level
+.DS_Store
+build/
+.vscode
+
+# App stuff
+.sass-cache
+npm-debug.log
+public/
+node_modules/
+app/lib/
+/.idea/
+.idea/*
+.idea/*
+/wp-content/themes/
