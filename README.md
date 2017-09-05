@@ -180,8 +180,10 @@ git pull origin master
 Anh then instead of `git push`, run:
 
 ```sh
-npm run deploy
+npm run git-push
 ```
+
+The above command will push your code to the latest repo here: [john-namtech/fashion-journal](https://github.com/john-namtech/fashion-journal)
 
 #### Configuration
 
