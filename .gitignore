@@ -2,7 +2,7 @@
 .DS_Store
 build/
 .vscode
-appspec.yml
+
 # App stuff
 .sass-cache
 npm-debug.log
